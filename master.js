@@ -8,7 +8,7 @@
 },
 {
 	"iuid": "b5df5bc6-1b26-4702-bcbe-73a2709c4e23",
-	"name" "White rsum"
+	"name" "White rum"
 },
 {
 	"iuid": "fc00dd7e-f9e8-47c9-8183-f9cdc2f93dac",
