@@ -1,46 +1,325 @@
 {
     "ingredients": {
-        "3e2d0d40-05e8-4e23-8c71-f0f62c1f49fe": {
-            "name": "Tequila"
+        "b9c47e34-5e4e-456f-9782-a50417ae98d0": {
+            "name": "absinthe"
         },
-        "9705e725-b777-41b6-b957-ce762dec8e3d": {
-            "name": "Brown rum"
+        "09710724-d838-4194-a534-7b989ac5b8b5": {
+            "name": "allspice"
         },
-        "b5df5bc6-1b26-4702-bcbe-73a2709c4e23": {
-            "name": "White rum"
+        "74271cf6-c8b8-451f-a418-21031308f740": {
+            "name": "amaretto"
         },
-        "fc00dd7e-f9e8-47c9-8183-f9cdc2f93dac": {
-            "name": "Pastis"
+        "c1a93611-c3e1-4a7f-9db4-fe2c48418db0": {
+            "name": "amaro"
         },
-        "055c749e-ce5c-468f-af04-ddb89a7cb286": {
-            "name": "Gin"
+        "bb80e7fc-7f43-45bb-90b9-2105b05063eb": {
+            "name": "amer"
         },
-        "6b5f1ced-8c42-4508-b9e2-61df6652367c": {
-            "name": "Vodka"
+        "accb435d-671b-4094-8252-93f8f40a1e7b": {
+            "name": "anchovy"
         },
-        "c52124ed-7be0-4636-ac45-12c906cab0eb": {
-            "name": "Whisky"
+        "ed290854-a0dd-4073-8531-111a046c45e4": {
+            "name": "anisette"
         },
-        "a627427e-e6a2-414b-8881-0cb2835a71ea": {
-            "name": "Malibu coco"
+        "637d30de-5fa0-4e2c-ba99-99256777dc04": {
+            "name": "apple juice"
         },
-        "79e42999-7b7e-42e8-b162-f6f199f55363": {
+        "5737098e-14d0-4f49-82b3-c9799efd533c": {
+            "name": "apricot syrup"
+        },
+        "d75cdde1-ec0a-46aa-b1ec-c06703bfb19d": {
+            "name": "aquavit"
+        },
+        "b8e44ec5-1c15-4fe9-8f83-a72c3e4e0865": {
+            "name": "banana"
+        },
+        "f1991e26-cd14-40fa-a928-4c565378d360": {
+            "name": "brandy"
+        },
+        "c201f1fe-19bf-42f8-a3cd-2208937b224a": {
+            "name": "Calvados"
+        },
+        "0f3508c4-5861-4f8d-94a0-e218b2df3d83": {
+            "name": "cane syrup"
+        },
+        "82fc6f0d-7128-45f3-bd78-60e45b5c6906": {
+            "name": "carrot juice"
+        },
+        "e2e7469e-6765-40e2-a8c5-f609e8ec4f51": {
+            "name": "Champagne"
+        },
+        "a317f750-951f-4220-93ed-1ea8dd7d94c9": {
+            "name": "cider"
+        },
+        "0d1fb532-3e37-4355-88c7-440cf69c01ad": {
+            "name": "cinnamon"
+        },
+        "bccaab04-14cb-41f0-8e90-771a675ba338": {
+            "name": "clairin"
+        },
+        "022f6a63-e1e2-4c6a-af75-8eb639a39988": {
+            "name": "Cognac"
+        },
+        "8b94d9db-6955-4c22-9af0-bc21b581706d": {
             "name": "Cointreau"
         },
-        "8550ee0b-aa35-45b7-ad12-1bdc6e08d67c": {
-            "name": "Blue Curacao"
+        "08911558-762e-42c5-bc1f-9a58bf73b32f": {
+            "name": "Cola"
         },
-        "1484bc7f-5f81-4f30-b675-e3e22d43ed56": {
-            "name": "Triple Sec"
+        "b0e2c652-ce49-4c59-ab28-0615d009487f": {
+            "name": "cranberry juice"
         },
-        "9146eaeb-32fd-4810-8954-9f396958bdde": {
-            "name": "Orange juice"
+        "b8f99e17-94ec-4a83-92f5-6e08d7730a7b": {
+            "name": "garnish"
         },
-        "4d1bfc3c-ff17-4e22-b240-fc604761c893": {
-            "name": "Cranberry juice"
+        "1ad25275-c3b2-4dcb-8d1c-187b904e3fca": {
+            "name": "gin"
         },
-        "53d9525f-61ac-4990-a045-aa4f17503ce7": {
-            "name": "Grenadine syrup"
+        "5a0afcad-e0dd-4c0c-a3d3-e0d847be8bd1": {
+            "name": "goldwasser"
+        },
+        "68866129-7e45-4fa1-92e7-b024a6648936": {
+            "name": "grape juice"
+        },
+        "d1bb65f4-7289-4246-9d78-0f2bc951d019": {
+            "name": "grenadine"
+        },
+        "17b9cde8-4df9-476f-b228-f2d117bfbdfd": {
+            "name": "groseille syrup"
+        },
+        "76eddad0-7849-4a52-af9f-cb3c60df0e9b": {
+            "name": "hazelnut"
+        },
+        "1ba3a59d-1d90-4f64-a832-8f807c1055d5": {
+            "name": "ice"
+        },
+        "420db580-318e-43d7-a74d-3ec3254d556f": {
+            "name": "kirsch"
+        },
+        "ce9d81c7-31e1-4e19-9ffd-3f1d44d7781d": {
+            "name": "kummel"
+        },
+        "94ea7ad6-d05a-4dff-8338-aefad26faaf6": {
+            "name": "kumquat"
+        },
+        "16f52d67-a7a6-4898-82d6-d040d7448bbb": {
+            "name": "lager"
+        },
+        "4c4db275-7941-471c-a73e-9abeb36afccf": {
+            "name": "lemon juice"
+        },
+        "ef01783c-99b0-42c2-9194-3eb84d8ab1af": {
+            "name": "liqueur"
+        },
+        "d80c4833-94d5-42ed-b84c-c2802da7d56a": {
+            "name": "loganberry juice"
+        },
+        "533a346c-107e-4b27-b212-e2c5fe0b59aa": {
+            "name": "Malibu"
+        },
+        "ecfd49ac-0e9c-46ff-89a8-f53d65a88119": {
+            "name": "mango"
+        },
+        "d472f7ac-398c-4d2b-8f46-6e762c776f0e": {
+            "name": "maple syrup"
+        },
+        "1a5c5dfd-0818-4cee-8c93-be0d956c3dd3": {
+            "name": "marc"
+        },
+        "85c5e747-5028-4ead-9d34-6a1006ebbdd8": {
+            "name": "mescal"
+        },
+        "acb46c4a-7714-46a7-8420-0decfdd70d85": {
+            "name": "mint"
+        },
+        "432dca12-0f17-46cd-96f9-ecec787e473e": {
+            "name": "mirabelle"
+        },
+        "4b2bc21c-0cf4-4321-924a-883641307dde": {
+            "name": "molasses"
+        },
+        "802daf21-283b-462e-b801-8e662114c6b0": {
+            "name": "nectarine"
+        },
+        "87ee5513-9371-45d5-bb8d-0a32b100abcc": {
+            "name": "orange juice"
+        },
+        "c80c251e-605f-4bd6-b1fc-6585dc925287": {
+            "name": "orgeat"
+        },
+        "7d42a174-e223-4c1a-bd9d-65ce7f15ea82": {
+            "name": "passion fruit syrup"
+        },
+        "976e8a1c-0e0d-4969-9131-8a4c3a5e5840": {
+            "name": "pastis"
+        },
+        "a4ba842a-c146-4162-b2be-2788f8d4741f": {
+            "name": "peach"
+        },
+        "a64abc2b-d93f-49aa-aab9-b495a87574e4": {
+            "name": "pear juice"
+        },
+        "c3723f74-d366-4b52-8276-5ef5faa55436": {
+            "name": "pineapple juice"
+        },
+        "20925dd3-adff-467c-a72b-5be108862af9": {
+            "name": "pisco"
+        },
+        "042c37cc-be16-40c8-a31c-772ea1055f28": {
+            "name": "pomegranate juice"
+        },
+        "21a8cf52-9d04-470c-97b0-01fd99cbeb49": {
+            "name": "quinquina"
+        },
+        "f163d8b2-c51a-4511-8693-61a53851fe0c": {
+            "name": "raicilla"
+        },
+        "49a2e77b-a456-4f11-97f5-73b17f8f59b7": {
+            "name": "raspberry syrup"
+        },
+        "acd69f12-3f15-456a-833d-e9fd0ee6592a": {
+            "name": "Ricard"
+        },
+        "e7bc4b8c-f8b6-4624-92ac-8acdcfe53f24": {
+            "name": "rock candy syrup"
+        },
+        "143a1fbf-f9e7-4d25-b9c5-720ada4cc38a": {
+            "name": "sage"
+        },
+        "86d7db1a-bbc3-47eb-b00a-e365ac916180": {
+            "name": "sake"
+        },
+        "dfa068de-1b88-4dc9-98fa-9f824ee89f6c": {
+            "name": "sambuca"
+        },
+        "1c0ed330-21d8-4b43-8c80-874ac8c8cc2b": {
+            "name": "seltzer"
+        },
+        "09c98e10-b43f-4b97-8e90-15b18cd36e12": {
+            "name": "sesame seed syrup"
+        },
+        "40399b9d-fe60-49af-b577-6b15e1cc42fc": {
+            "name": "simple syrup"
+        },
+        "378808d6-af25-4401-9974-efd646420450": {
+            "name": "soda"
+        },
+        "232120ce-ed15-49e5-af00-20775d6ff803": {
+            "name": "strawberry"
+        },
+        "3b22e062-711c-429f-bd1a-827d6001fb67": {
+            "name": "sugar"
+        },
+        "adffd247-2294-4ce6-a75d-17836a7ee785": {
+            "name": "tamarind"
+        },
+        "f6747a0e-437e-40b8-b4e3-51b2f4dcb285": {
+            "name": "tangerine juice"
+        },
+        "5b7228fe-546f-4b85-b0cd-c10fee8ea1a6": {
+            "name": "tarragon"
+        },
+        "68a09faa-4d13-45a1-8648-9be41424ed19": {
+            "name": "tea"
+        },
+        "9281c9f3-bee1-4894-a221-1733d749173a": {
+            "name": "Tequila"
+        },
+        "ddec4ee1-1bc1-4fc4-8626-170dd3ec47b0": {
+            "name": "tomato juice"
+        },
+        "46e225f1-4d46-4b20-bf24-54ab7da5b0f3": {
+            "name": "tonic"
+        },
+        "c262f1db-d338-4c04-9f44-d53405e755e5": {
+            "name": "vodka"
+        },
+        "9c8e3b5a-73ae-40ab-b7f5-5054b33e3667": {
+            "name": "water"
+        },
+        "af5177fd-bb29-48d6-8035-4b1a244387da": {
+            "name": "watermelon juice"
+        },
+        "76d3c91d-484a-4710-8c51-ff68494737c6": {
+            "name": "zubrowka"
+        },
+        "a27ceb20-c6b2-43ca-aca1-3344619a2cb6": {
+            "name": "zwetschenwasser"
+        },
+        "9affc32d-1f95-4a7d-8dbf-bd7b1c5ca511": {
+            "name": "beer"
+        },
+        "c50a5491-3a5e-4d42-8bb6-9209d3981e98": {
+            "name": "bitters"
+        },
+        "5d14f5e1-533c-4d78-886a-d5cc234d8aea": {
+            "name": "blueberry syrup"
+        },
+        "f0414040-2f69-4dec-a437-5cacdbfaa68d": {
+            "name": "brine"
+        },
+        "4ae76811-b342-4e55-9f51-e9d5bea398d4": {
+            "name": "himbeergeist"
+        },
+        "960940b6-8e8f-49ff-9867-75a8c5bb5a73": {
+            "name": "clove"
+        },
+        "0942d238-599c-403c-9abf-03dd2147e9d9": {
+            "name": "coconut"
+        },
+        "a6da78ab-179d-42e2-910d-7c654eab59c6": {
+            "name": "plum"
+        },
+        "694bbee9-d463-4030-b4e6-d7e146a393a7": {
+            "name": "prune juice"
+        },
+        "26d566d6-04f3-44b8-9a7f-076e9dcf2dba": {
+            "name": "ginger"
+        },
+        "87c6bcb4-4df3-474c-8b83-dc01ee621bb2": {
+            "name": "nutmeg"
+        },
+        "e6dde91f-9971-4628-88e9-e11510273a3a": {
+            "name": "gomme syrup"
+        },
+        "b390d001-35b2-417c-9a0c-828304db486f": {
+            "name": "honey"
+        },
+        "7489f723-9881-40fe-a4d5-cbc21d3bb4ca": {
+            "name": "whisky"
+        },
+        "bcb225d7-d7f5-43fc-b19d-36594b2d32fb": {
+            "name": "liquor"
+        },
+        "de3b9e97-a6f8-42ba-b3e7-5f42d3c63885": {
+            "name": "milk"
+        },
+        "0448dc4a-ebf2-46a0-b4e8-3a27e784259e": {
+            "name": "rosolio"
+        },
+        "6a693918-d6a4-428e-bd4b-5b8a98a8a194": {
+            "name": "slivovitz"
+        },
+        "c91ab69f-5ea7-4c18-bfcc-fc72f8743b08": {
+            "name": "twist"
+        },
+        "7c277a85-e2d1-4f9c-a271-7754e1be4f30": {
+            "name": "wine"
+        },
+        "0ca72668-0147-4ff7-ab1e-0ef0bcfb248f": {
+            "name": "rum"
+        },
+        "ccc7d3db-d42b-481a-a726-f2a5cfe52d87": {
+            "name": "ouzo"
+        },
+        "bd1cc79c-2319-4fd4-a1fd-dc8a4e8e22bb": {
+            "name": "porter"
+        },
+        "c426fd52-714e-4382-bda3-71119756405e": {
+            "name": "stout"
+        },
+        "0df39901-5d44-452f-8ebe-511502bfa1e4": {
+            "name": "Suze"
         }
     }
 }
